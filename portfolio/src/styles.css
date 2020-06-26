@@ -295,6 +295,7 @@ nav .nav-resume{
     min-height: 100vh;
     margin: 0px auto;
     margin-left:12%;
+    padding-top:200px;
     padding-right:15%;
     font-family: Calibre, "San Francisco", "SF Pro Text", -apple-system, system-ui, BlinkMacSystemFont, Roboto, "Hica Neue", "Segoe UI", Arial, sans-serif;
     /* background-color:#dddd; */
@@ -376,6 +377,7 @@ nav .nav-resume{
     align-items: flex-start;
     min-height: 100vh;
     margin: 0px auto;
+    padding-top: 200px;
     /* margin-left:12%; */
     margin-left:22%;
     /* padding-right:15%; */
@@ -486,6 +488,7 @@ nav .nav-resume{
     /* margin-left:12%; */
     margin-left:13%;
     /* padding-right:15%; */
+    padding-bottom:150px;
     font-family: Calibre, "San Francisco", "SF Pro Text", -apple-system, system-ui, BlinkMacSystemFont, Roboto, "Hica Neue", "Segoe UI", Arial, sans-serif;
     /* background-color:#dddd; */
 }
@@ -578,7 +581,7 @@ nav .nav-resume{
     min-height: 50vh;
     text-align: center;
     max-width: 800px;
-    padding: 350px 0px 250px 0px;
+    padding: 250px 0px 250px 0px;
     margin: 0px auto 100px;
     width: 100%;
     font-family: Calibre, "San Francisco", "SF Pro Text", -apple-system, system-ui, BlinkMacSystemFont, Roboto, "Hica Neue", "Segoe UI", Arial, sans-serif;
