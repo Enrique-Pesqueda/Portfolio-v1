@@ -18,7 +18,7 @@ export class AppComponent implements OnInit{
   visaDate = "May 2019 - Aug 2019";
   hcDate = "Aug 2018 - Dec 2018";
 
-  visaList = "<ul><li>Developed and deployed a comprehensive solution to enforce government-imposed mandates and conducted extensive functional regression testing while using an IBM z/TPF mainframe operating system.</li><li>Enhanced several developer tools used across several teams in order to expedite processes needed by the VIP Online Support Team.</li><li>Formulated design documents, unit tests, and deprecated other outdated features to enhance code quality.</li></ul>";
+  visaList = "<ul><li>Developed and deployed a comprehensive solution to enforce government-imposed mandates and conducted extensive functional regression testing while using an IBM z/TPF mainframe operating system.</li><li>Enhanced several developer tools used across several teams in order to expedite processes needed by the VIP Online Support Team.</li><li>Formulated design documents, unit tests, and deprecated other outdated features to enhance code quality, and reduce test, and production incidents. </li></ul>";
   hcList = "<ul><li>Improved student’s performance on standardized tests by ~10% by facilitating meetings geared to improve student's computer programming, critical thinking, problem-solving, and teamwork skills through weekly co-created coursework.</li></ul>";
   
 
